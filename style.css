@@ -580,7 +580,7 @@ body {
 
 #contact-location-text{
     font-family: "Google Sans Flex";
-    font-size: 15px;
+    font-size: 10px;
     position: absolute;
     top: 19%;
     left:50%;
@@ -588,7 +588,7 @@ body {
 
 #find-us-text{
     font-family: "Google Sans Flex";
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 500;
     position: absolute;
     top: 14%;
